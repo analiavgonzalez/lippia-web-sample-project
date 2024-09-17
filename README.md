@@ -1,6 +1,6 @@
 # Lippia Web sample project
 
-<!-- TEST ANI-->
+<!-- TEST ANI--->
 <!--## Architecture
 
 ![Lippia Architecture Web](docs/img/architecture_web_lippia.png)
